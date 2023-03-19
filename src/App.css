@@ -1,0 +1,13 @@
+body{
+    background-color: #8D7B68;
+    display: flex;
+    
+    justify-content: center;
+    
+}
+
+.heading{
+    margin-top: 90px;
+    font-size: 35px;
+    color: white;
+}
